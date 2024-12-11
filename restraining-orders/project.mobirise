@@ -1,0 +1,909 @@
+{
+  "settings": {
+    "name": "Paul Github restraining order vs ppo",
+    "currentPage": "restraining-order-vs-ppo.html",
+    "theme": {
+      "name": "startm5",
+      "title": "StartM5",
+      "styling": {
+        "primaryColor": "#5f88d4",
+        "secondaryColor": "#ffd7ef",
+        "successColor": "#3a341c",
+        "infoColor": "#320707",
+        "warningColor": "#a0e2e1",
+        "dangerColor": "#ffea64",
+        "mainFont": "Inter Tight",
+        "display1Font": "Inter Tight",
+        "display1Size": 5,
+        "display2Font": "Inter Tight",
+        "display2Size": 4,
+        "display5Font": "Inter Tight",
+        "display5Size": 2.5,
+        "display7Font": "Inter Tight",
+        "display7Size": 1.4,
+        "display4Font": "Inter Tight",
+        "display4Size": 1.2,
+        "isRoundedImages": true,
+        "isRoundedButtons": true,
+        "isLargeButtons": true,
+        "isGhostButtonBorder": true,
+        "underlinedLinks": false,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
+      },
+      "additionalSetColors": [
+        "#5f88d4"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "5.9.4",
+    "siteFonts": [
+      {
+        "css": "'Inter Tight', sans-serif",
+        "name": "Inter Tight",
+        "url": "https://fonts.googleapis.com/css?family=Inter+Tight:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
+      }
+    ],
+    "imageResize": true,
+    "favicon": false,
+    "mbrsiteDomain": "ljop7we672",
+    "usedWebp": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "uniqCompNum": 13,
+    "versionPublish": "5.9.18",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "restraining-order-vs-ppo.html": {
+      "settings": {
+        "main": true,
+        "title": "restraining order vs ppo",
+        "meta_descr": "Understanding the distinctions between no-contact orders, restraining order vs PPO is critical, especially for those who find themselves on the receiving end of one. These orders, while often mentioned interchangeably, serve different purposes and are governed by unique sets of laws. The nuances of each can affect not just the immediate freedom of the recipient but also have long-term legal implications.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "menu1",
+          "_sourceTheme": "mobirise5",
+          "_styles": {
+            "& when not (@sticky)": {
+              ".navbar-dropdown": {
+                "position": "relative !important"
+              },
+              "& when (@transparent)": {
+                ".navbar-dropdown": {
+                  "position": "absolute !important"
+                }
+              }
+            },
+            "& when (@sticky)": {
+              "z-index": "1000",
+              "width": "100%",
+              "& when not (@transparent)": {
+                "position": "relative",
+                "min-height": "60px"
+              },
+              "nav.navbar": {
+                "position": "fixed"
+              }
+            },
+            ".dropdown-item:before": {
+              "font-family": "Moririse2 !important",
+              "content": "\"\\e966\"",
+              "display": "inline-block",
+              "width": "0",
+              "position": "absolute",
+              "left": "1rem",
+              "top": "0.5rem",
+              "margin-right": "0.5rem",
+              "line-height": "1",
+              "font-size": "inherit",
+              "vertical-align": "middle",
+              "text-align": "center",
+              "overflow": "hidden",
+              "transform": "scale(0, 1)",
+              "transition": "all 0.25s ease-in-out"
+            },
+            ".dropdown-menu": {
+              "padding": "0",
+              "border-radius": "4px",
+              "box-shadow": "0 1px 3px 0 rgba(0, 0, 0, 0.1)"
+            },
+            ".dropdown-item": {
+              "border-bottom": "1px solid #e6e6e6",
+              "&:hover, &:focus": {
+                "background": "@primaryColor !important",
+                "color": "white !important"
+              },
+              "&:hover span": {
+                "color": "white"
+              },
+              "&:first-child": {
+                "border-top-left-radius": "4px",
+                "border-top-right-radius": "4px"
+              },
+              "&:last-child": {
+                "border-bottom": "none",
+                "border-bottom-left-radius": "4px",
+                "border-bottom-right-radius": "4px"
+              }
+            },
+            ".nav-dropdown .link": {
+              "padding": "0 0.3em !important",
+              "margin": "0.667em 1em !important"
+            },
+            ".nav-dropdown .link.dropdown-toggle::after": {
+              "margin-left": "0.5rem",
+              "margin-top": "0.2rem"
+            },
+            ".nav-link": {
+              "position": "relative"
+            },
+            ".container": {
+              "display": "flex",
+              "margin": "auto",
+              "& when not (@collapsed)": {
+                "@media (min-width: 992px)": {
+                  "flex-wrap": "nowrap"
+                }
+              }
+            },
+            ".iconfont-wrapper": {
+              "color": "@iconsColor !important",
+              "font-size": "1.5rem",
+              "padding-right": "0.5rem"
+            },
+            ".navbar-caption": {},
+            ".navbar-nav": {},
+            ".dropdown-menu, .navbar.opened": {
+              "background": "@menuBgColor !important"
+            },
+            ".nav-item:focus, .nav-link:focus": {
+              "outline": "none"
+            },
+            ".dropdown .dropdown-menu .dropdown-item": {
+              "width": "auto",
+              "transition": "all 0.25s ease-in-out",
+              "&::after": {
+                "right": "0.5rem"
+              },
+              ".mbr-iconfont": {
+                "margin-right": "0.5rem",
+                "vertical-align": "sub",
+                "&:before": {
+                  "display": "inline-block",
+                  "transform": "scale(1, 1)",
+                  "transition": "all 0.25s ease-in-out"
+                }
+              }
+            },
+            ".collapsed": {
+              ".dropdown-menu .dropdown-item:before": {
+                "display": "none"
+              },
+              ".dropdown .dropdown-menu .dropdown-item": {
+                "padding": "0.235em 1.5em 0.235em 1.5em !important",
+                "transition": "none",
+                "margin": "0 !important"
+              }
+            },
+            ".navbar": {
+              "min-height": "70px",
+              "transition": "all 0.3s",
+              "border-bottom": "1px solid transparent",
+              "&:not(.navbar-short)": {},
+              "& when not (@transparent)": {
+                "box-shadow": "0 1px 3px 0 rgba(0, 0, 0, 0.1)",
+                "background": "@menuBgColor"
+              },
+              "& when (@transparent)": {
+                "background": "rgba(red(@menuBgColor), green(@menuBgColor), blue(@menuBgColor), @opacity)"
+              },
+              "&.opened": {
+                "transition": "all 0.3s"
+              },
+              ".dropdown-item": {
+                "padding": "0.5rem 1.8rem"
+              },
+              ".navbar-logo img": {
+                "width": "auto"
+              },
+              ".navbar-collapse": {
+                "justify-content": "flex-end",
+                "z-index": "1"
+              },
+              "&.collapsed": {
+                "justify-content": "center",
+                ".nav-item .nav-link::before": {
+                  "display": "none"
+                },
+                "&.opened": {
+                  ".dropdown-menu": {
+                    "top": "0"
+                  },
+                  "@media (min-width: 992px)": {
+                    "&:not(.navbar-short) .navbar-collapse when (@showLogo)": {
+                      "max-height": "~\"calc(98.5vh - @{logoSize}rem)\""
+                    }
+                  }
+                },
+                ".dropdown-menu": {
+                  ".dropdown-submenu": {
+                    "left": "0 !important"
+                  },
+                  ".dropdown-item:after": {
+                    "right": "auto"
+                  },
+                  ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]:after": {
+                    "margin-left": "0.5rem",
+                    "margin-top": "0.2rem",
+                    "border-top": "0.35em solid",
+                    "border-right": "0.35em solid transparent",
+                    "border-left": "0.35em solid transparent",
+                    "border-bottom": "0",
+                    "top": "41%"
+                  }
+                },
+                "ul.navbar-nav": {
+                  "li": {
+                    "margin": "auto"
+                  }
+                },
+                ".dropdown-menu .dropdown-item": {
+                  "padding": "0.25rem 1.5rem",
+                  "text-align": "center"
+                },
+                ".icons-menu": {
+                  "padding-left": "0",
+                  "padding-right": "0",
+                  "padding-top": "0.5rem",
+                  "padding-bottom": "0.5rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".nav-item .nav-link::before": {
+                  "display": "none"
+                },
+                "&.opened": {
+                  ".dropdown-menu": {
+                    "top": "0"
+                  }
+                },
+                ".dropdown-menu": {
+                  ".dropdown-submenu": {
+                    "left": "0 !important"
+                  },
+                  ".dropdown-item:after": {
+                    "right": "auto"
+                  },
+                  ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]:after": {
+                    "margin-left": "0.5rem",
+                    "margin-top": "0.2rem",
+                    "border-top": "0.35em solid",
+                    "border-right": "0.35em solid transparent",
+                    "border-left": "0.35em solid transparent",
+                    "border-bottom": "0",
+                    "top": "40%"
+                  }
+                },
+                ".navbar-logo": {
+                  "img": {
+                    "height": "3rem !important"
+                  }
+                },
+                "ul.navbar-nav": {
+                  "li": {
+                    "margin": "auto"
+                  }
+                },
+                ".dropdown-menu .dropdown-item": {
+                  "padding": "0.25rem 1.5rem !important",
+                  "text-align": "center"
+                },
+                ".navbar-brand": {
+                  "flex-shrink": "initial",
+                  "flex-basis": "auto",
+                  "word-break": "break-word",
+                  "padding-right": "2rem"
+                },
+                ".navbar-toggler": {
+                  "flex-basis": "auto"
+                },
+                ".icons-menu": {
+                  "padding-left": "0",
+                  "padding-top": "0.5rem",
+                  "padding-bottom": "0.5rem"
+                }
+              },
+              "&.navbar-short": {
+                "min-height": "60px",
+                ".navbar-logo": {
+                  "img": {
+                    "height": "2.5rem !important"
+                  }
+                },
+                ".navbar-brand": {
+                  "min-height": "60px",
+                  "padding": "0"
+                }
+              }
+            },
+            ".navbar-brand": {
+              "min-height": "70px",
+              "flex-shrink": "0",
+              "align-items": "center",
+              "margin-right": "0",
+              "padding": "10px 0",
+              "transition": "all 0.3s",
+              "word-break": "break-word",
+              "z-index": "1",
+              ".navbar-caption": {
+                "line-height": "inherit !important"
+              },
+              ".navbar-logo a": {
+                "outline": "none"
+              }
+            },
+            ".dropdown-item.active, .dropdown-item:active": {
+              "background-color": "transparent"
+            },
+            ".navbar-expand-lg .navbar-nav .nav-link": {
+              "padding": "0"
+            },
+            ".nav-dropdown .link.dropdown-toggle": {
+              "margin-right": "1.667em",
+              "&[aria-expanded=\"true\"]": {
+                "margin-right": "0",
+                "padding": "0.667em 1.667em"
+              }
+            },
+            ".navbar.navbar-expand-lg .dropdown": {
+              ".dropdown-menu": {
+                "background": "@menuBgColor",
+                ".dropdown-submenu": {
+                  "margin": "0",
+                  "left": "100%"
+                }
+              }
+            },
+            ".navbar .dropdown.open > .dropdown-menu": {
+              "display": "block"
+            },
+            "ul.navbar-nav": {
+              "flex-wrap": "wrap"
+            },
+            ".navbar-buttons": {
+              "text-align": "center",
+              "min-width": "170px"
+            },
+            "button.navbar-toggler": {
+              "outline": "none",
+              "width": "31px",
+              "height": "20px",
+              "cursor": "pointer",
+              "transition": "all 0.2s",
+              "position": "relative",
+              "align-self": "center",
+              ".hamburger span": {
+                "position": "absolute",
+                "right": "0",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "top": "0",
+                  "transition": "all 0.2s"
+                },
+                "&:nth-child(2)": {
+                  "top": "8px",
+                  "transition": "all 0.15s"
+                },
+                "&:nth-child(3)": {
+                  "top": "8px",
+                  "transition": "all 0.15s"
+                },
+                "&:nth-child(4)": {
+                  "top": "16px",
+                  "transition": "all 0.2s"
+                }
+              }
+            },
+            "nav.opened .hamburger span": {
+              "&:nth-child(1)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all 0.2s"
+              },
+              "&:nth-child(2)": {
+                "transform": "rotate(45deg)",
+                "transition": "all 0.25s"
+              },
+              "&:nth-child(3)": {
+                "transform": "rotate(-45deg)",
+                "transition": "all 0.25s"
+              },
+              "&:nth-child(4)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all 0.2s"
+              }
+            },
+            ".navbar-dropdown": {
+              "padding": "0 1rem",
+              "& when (@sticky)": {
+                "position": "fixed"
+              }
+            },
+            "a.nav-link": {
+              "display": "flex",
+              "align-items": "center",
+              "justify-content": "center"
+            },
+            ".icons-menu": {
+              "flex-wrap": "nowrap",
+              "display": "flex",
+              "justify-content": "center",
+              "padding-left": "1rem",
+              "padding-right": "1rem",
+              "padding-top": "0.3rem",
+              "text-align": "center"
+            },
+            "@media screen and (~'-ms-high-contrast: active'), (~'-ms-high-contrast: none')": {
+              ".navbar": {
+                "height": "70px",
+                "&.opened": {
+                  "height": "auto"
+                }
+              },
+              ".nav-item .nav-link:hover::before": {
+                "width": "175%",
+                "max-width": "calc(100% ~\"+\" 2rem)",
+                "left": "-1rem"
+              }
+            }
+          },
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"menu menu1\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global once=\"menu\" not-draggable position-absolute>\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" name=\"fullWidth\" title=\"Full Width\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Logo\" name=\"showLogo\">\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3\" max=\"8\" step=\"0.1\" value=\"3\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Brand Name\" name=\"showBrand\" checked>\n        <input type=\"checkbox\" title=\"Menu Items\" name=\"showItems\">\n        <input type=\"checkbox\" title=\"Icons\" name=\"showIcons\">\n        <select title=\"Amount\" name=\"iconsAmount\" condition=\"showIcons\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected>3</option>\n            <option value=\"4\">4</option>\n        </select>\n        <input type=\"color\" title=\"Icons Color\" name=\"iconsColor\" value=\"#000000\" condition=\"showIcons\">\n        <input type=\"checkbox\" title=\"Button\" name=\"showButtons\">\n        <header>Styles</header>\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\">\n        <input type=\"range\" title=\"Opacity\" name=\"opacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"transparent\">\n        <input type=\"color\" title=\"Color\" name=\"menuBgColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Hamburger\" name=\"hamburgerColor\" value=\"#000000\">\n    </mbr-parameters>\n\n    <nav class=\"navbar navbar-dropdown\" mbr-class=\"{'navbar-fixed-top':sticky,\n                     'navbar-expand-lg':!collapsed,\n                     'collapsed':collapsed}\">\n        <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <a href=\"https://mobiri.se\">\n                        <img src=\"@PROJECT_PATH@/assets/images/logo-1.png\" alt=\"Mobirise Website Builder\" mbr-style=\"{'height': logoSize + 'rem'}\">\n                    </a>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-7\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-iconFont\"><a class=\"navbar-caption text-black text-primary\" data-app-selector=\".navbar-caption\" href=\"restraining-order-vs-ppo.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">restraining order vs ppo&nbsp;<br></a></span>\n            </div>\n            <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-bs-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" data-bs-target=\"#navbarSupportedContent\" aria-controls=\"navbarNavAltMarkup\" aria-expanded=\"false\" aria-label=\"Toggle navigation\" mbr-if=\"showItems || showIcons || showButtons\">\n                <div class=\"hamburger\">\n                    <span></span>\n                    <span></span>\n                    <span></span>\n                    <span></span>\n                </div>\n            </button>\n            <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\" mbr-if=\"showItems || showIcons || showButtons\">\n                <ul mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-if=\"showItems\" mbr-class=\"{'nav-right': !showButtons,'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item\"><a class=\"nav-link link text-black\" href=\"https://mobiri.se\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">INSERT KEYWORD 6</a></li></ul>\n                <div class=\"icons-menu\" mbr-if=\"showIcons\">\n                    <a class=\"iconfont-wrapper\" href=\"https://mobiri.se\" target=\"_blank\">\n                        <span mbr-icon class=\"p-2 mbr-iconfont socicon-facebook socicon\"></span>\n                    </a>\n                    <a class=\"iconfont-wrapper\" href=\"https://mobiri.se\" target=\"_blank\" mbr-if=\"iconsAmount > 1\">\n                        <span mbr-icon class=\"p-2 mbr-iconfont socicon-twitter socicon\"></span>\n                    </a>\n                    <a class=\"iconfont-wrapper\" href=\"https://mobiri.se\" target=\"_blank\" mbr-if=\"iconsAmount > 2\">\n                        <span mbr-icon class=\"p-2 mbr-iconfont socicon-instagram socicon\"></span>\n                    </a>\n                    <a class=\"iconfont-wrapper\" href=\"https://mobiri.se\" target=\"_blank\" mbr-if=\"iconsAmount > 3\">\n                        <span mbr-icon class=\"p-2 mbr-iconfont socicon-linkedin socicon\"></span>\n                    </a>\n                </div>\n                <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\">\n                    <a class=\"btn btn-primary\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">\n                        Download Now</a>\n                </div>\n            </div>\n        </div>\n    </nav>\n</section>",
+          "_JSplaceholders": [],
+          "_PHPplaceholders": [],
+          "_anchor": "menu1-0",
+          "_isUserblock": true,
+          "_cid": "tNFJ21BuKR",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "menu",
+          "_params": {}
+        },
+        {
+          "_name": "header1",
+          "_sourceTheme": "mobirise5",
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
+            }
+          },
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"range\" inline name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"5\" step=\"1\">\n        <select title=\"Align\" name=\"contentAlign\">\n            <option value selected>Left</option>\n            <option value=\"justify-content-center\">Center</option>\n            <option value=\"justify-content-end\">Right</option>\n        </select>\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background\n        </header>\n       \n        <fieldset type=\"background\" name=\"bg\" parallax>\n                \n            <input type=\"image\" title=\"Image\" value=\"https://lh3.googleusercontent.com/geougc/AF1QipPZdDeQaVC4fEKkhsjroOkFkTik2-NBxfU9m58C=h600-no\">\n            <input type=\"color\" title=\"Color\" value=\"#7787a5\" selected>\n            <input type=\"video\" title=\"Video\" value=\"INSERT VIDEO 1\">\n          <div>\n\n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#777\" width=\"200\" height=\"200\"><path d=\"M6.1 8.7L2.8 12l3.3 3.3-1.4 1.4L0 12l4.7-4.7 1.4 1.4zm13.2-1.4l-1.4 1.4 3.3 3.3-3.3 3.3 1.4 1.4L24 12l-4.7-4.7zM8.1 18.6l1.8.8 6-14-1.8-.8-6 14z\"></path></svg>\n    <p class=\"display-3\">Click to Open Code Editor</p>\n</div>\n            \n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"@PROJECT_PATH@/assets/images/background13-1.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#fafafa\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.1\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row {{contentAlign}}\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <h1 class=\"mbr-section-title mbr-fonts-style mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\"><b>Paul J Tafelski, Michigan Defense Law</b></h1>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mb-3\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\" mbr-if=\"showSubitle\">\n                    <div>\n  \n<iframe src=\"https://lh3.googleusercontent.com/geougc/AF1QipMp1Gw5HDBvFyOpYqRQMS8SycKdkWXvud1Tkjq6=h400-no\" style=\"border:0px #ffffff none;\" name=\"myiFrame\" scrolling=\"no\" frameborder=\"1\" marginheight=\"0px\" marginwidth=\"0px\" height=\"400px\" width=\"600px\" allowfullscreen></iframe>\n\n</div>\n                                        </h2>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">INSERT TEXT 1</p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\"><a class=\"btn btn-secondary\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">Create Website</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_JSplaceholders": [],
+          "_PHPplaceholders": [],
+          "_anchor": "header1-1",
+          "_isUserblock": true,
+          "_cid": "tNFJ2tihMg",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".card-heading": {
+              "padding-top": "16px",
+              "padding-bottom": "8px",
+              "color": "#012b3a"
+            },
+            ".p, .mbr-text": {
+              "color": "#012b3a"
+            },
+            ".row": {
+              "justify-content": "center"
+            },
+            "a": {
+              "font-weight": "400 !important"
+            },
+            "a.text-danger:hover": {
+              "color": "#E5BE8A !important"
+            }
+          },
+          "_name": "article07",
+          "_sourceTheme": "startm5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"article07\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"6\" max=\"12\" value=\"8\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"range\" title=\"Paragraphs Amount\" name=\"articlesAmount\" min=\"1\" max=\"10\" value=\"3\" step=\"1\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Image\" value=\"/addons/socialm5/components/_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#fff8ef\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.3\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div mbr-class=\"{\n            'mbr-fullscreen': fullScreen}\">\n        <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n            <div class=\"row\">\n                <div class=\"col-12 col-md-{{contentWidth}}\">\n                    <div class=\"row\">\n                        <div class=\"col-12\">\n                            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\">\n                            </p><h2>Restraining Order vs PPO: Key Differences Under Michigan Law</h2><p>Legal protection orders are designed to safeguard individuals from threats, harassment, or violence. In Michigan, two commonly used legal tools for this purpose are restraining orders and personal protection orders (PPOs). While people often confuse these terms, understanding the key differences between a <a href=\"https://www.michigandefenselaw.com/blog/difference-no-contact-orders-protection-orders-restraining-orders/\" class=\"text-primary\" target=\"_blank\">restraining order vs PPO</a> under Michigan law can help you better navigate legal situations where these orders may be necessary. Let's explore the distinctions between the two and how they function in the state.<br>\n<br>What Is a Restraining Order?\n<br>A restraining order is a broad legal term used to describe a court-issued order that prohibits one party from engaging in specific actions toward another. In Michigan, restraining orders are often requested during civil cases, such as divorce or custody disputes, to maintain order and protect one party during ongoing litigation. These orders are not limited to domestic relationships and can apply to disputes between business partners, neighbors, or any individuals involved in a legal conflict.\n<br>Restraining orders are typically temporary and tied to the duration of the legal case they stem from. They may include provisions such as prohibiting the sale of joint assets, requiring one party to vacate a shared property, or limiting contact between the parties involved.<br>\n<br>What Is a PPO?\n<br>A Personal Protection Order (PPO) is a specific type of restraining order under Michigan law. It is designed to protect individuals from actual or threatened harm, harassment, or stalking. PPOs are often issued in cases where there is a history of domestic violence, stalking, or other forms of intentional intimidation. Unlike restraining orders tied to civil litigation, PPOs are distinct legal orders that focus entirely on protecting the victim.<br>\n<br>Michigan law outlines three primary types of PPOs:\n<br>Domestic Relationship PPOs: Filed against someone with whom the petitioner shares a domestic relationship, such as a spouse, former spouse, co-parent, or partner.<br>Stalking PPOs: Filed against individuals accused of stalking behaviors, including repeated unwanted contact or harassment.\n<br>Non-Domestic PPOs: Filed against someone other than a family or household member when harassment or threats are significant enough to warrant protection.\n<br>Restraining Order vs PPO: Key Legal Differences\n<br>To better understand the distinction between restraining order vs PPO, consider the following key differences:\n<br>Scope and Purpose: Restraining orders typically address broader legal disputes tied to civil cases, while PPOs focus specifically on protection from harm or harassment.\n<br>Duration: A restraining order's duration depends on the timeline of the associated litigation, whereas a PPO can be granted for up to one year and may be renewed if necessary.\n<br>Legal Requirement: A PPO does not require a pending legal case and can be requested independently. On the other hand, restraining orders are generally issued as part of an overarching legal matter, such as divorce proceedings.\n<br>Enforceability: Violating a PPO in Michigan is considered a criminal offense, while violations of restraining orders are usually dealt with as civil contempt of court.<br>\n<br>How to File for a PPO in Michigan\n<br>To file for a PPO in Michigan, individuals must go to their local circuit court and complete a petition. This petition must detail the reasons for the request, including any evidence of harassment, threats, or violence. In many cases, the court may issue an ex parte PPO, which is granted without notifying the respondent if the judge believes immediate protection is necessary. The respondent will then have an opportunity to challenge or contest the PPO at a later hearing.<br>\n<br>If you are considering filing for a PPO, it is crucial to be as detailed and thorough as possible in your petition. Including evidence such as text messages, emails, or witness statements can strengthen your case.<br><br>When to Seek a Restraining Order\n<br>Restraining orders are typically sought during active civil legal cases, such as divorces or disputes over shared property. If you feel that your rights or safety are at risk within the context of an ongoing case, a restraining order may be the appropriate legal tool. For instance, in a contentious divorce, one party might request a restraining order to prevent the sale of marital assets or ensure one parent's access to children is supervised.<br>\n<br>Conclusion\n<br>Understanding the differences between a restraining order vs PPO under Michigan law is essential when determining the type of legal protection to pursue. Both tools serve important purposes, but their scope, duration, and application differ significantly. Whether you are in the midst of a legal case requiring a restraining order or need immediate protection through a PPO, it’s essential to understand your rights and the process involved. By taking the correct legal steps, you can ensure your safety and protect your interests effectively.&nbsp;<br></p>\n                         \n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "tNFJnaSGCs",
+          "_anchor": "article07-4",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".image-wrapper": {
+                "margin-bottom": "1rem"
+              }
+            },
+            ".row": {
+              "flex-direction": "row-reverse"
+            },
+            "img": {
+              "width": "100%"
+            }
+          },
+          "_name": "image01",
+          "_sourceTheme": "startm5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"image1\" group=\"Images & Videos\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Image\" min=\"4\" max=\"12\" step=\"1\" value=\"10\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#f7f7f7\" selected>\n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"../_images/background13.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <div class=\"image-wrapper\">\n                    <iframe src=\"https://lh3.googleusercontent.com/geougc/AF1QipMV_5aEJHAQGcy2fc9qKoOlkV7hhecT-s1us76v=h400-no\" style=\"border:0px #ffffff none;\" name=\"myiFrame\" scrolling=\"no\" frameborder=\"1\" marginheight=\"0px\" marginwidth=\"0px\" height=\"400px\" width=\"600px\" allowfullscreen></iframe>\n                    <p class=\"mbr-description mbr-fonts-style mt-2 align-center\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-description\">\n                        Image Description</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "tNFKjXksbU",
+          "_anchor": "image01-5",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <iframe src=\"https://www.michigandefenselaw.com/blog/difference-no-contact-orders-protection-orders-restraining-orders/\" style=\"border:0px #ffffff none;\" name=\"myiFrame\" scrolling=\"yes\" frameborder=\"1\" marginheight=\"0px\" marginwidth=\"0px\" height=\"400px\" width=\"600px\" allowfullscreen=\"\"></iframe>\n</div>",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_sourceTheme": "startm5",
+          "_JSplaceholders": [],
+          "_PHPplaceholders": [],
+          "_params": {},
+          "_anchor": "custom-html-6"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".card-heading": {
+              "padding-top": "16px",
+              "padding-bottom": "8px",
+              "color": "#012b3a"
+            },
+            ".p, .mbr-text": {
+              "color": "#012b3a"
+            },
+            ".row": {
+              "justify-content": "center"
+            },
+            "a": {
+              "font-weight": "400 !important"
+            },
+            "a.text-danger:hover": {
+              "color": "#E5BE8A !important"
+            }
+          },
+          "_name": "article07",
+          "_sourceTheme": "startm5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"article07\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"6\" max=\"12\" value=\"8\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"range\" title=\"Paragraphs Amount\" name=\"articlesAmount\" min=\"1\" max=\"10\" value=\"3\" step=\"1\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Image\" value=\"/addons/socialm5/components/_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#fff8ef\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.3\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div mbr-class=\"{\n            'mbr-fullscreen': fullScreen}\">\n        <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n            <div class=\"row\">\n                <div class=\"col-12 col-md-{{contentWidth}}\">\n                    <div class=\"row\">\n                        <div class=\"col-12\">\n                            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\">\n                            </p><h2>What Situations Qualify for a Restraining Order in Michigan?</h2><p>When facing a conflict or threat, legal protection orders can help ensure personal safety and establish boundaries. In Michigan, understanding the difference between a restraining order vs PPO (Personal Protection Order) is essential for determining the appropriate type of legal action to take. Both orders serve as tools for protection, but they are used in distinct situations. Let’s explore the scenarios that may qualify for a restraining order or PPO and the differences between the two.<br>\n<br>Understanding Restraining Orders in Michigan\n<br>A restraining order is typically sought during a civil legal case and is used to preserve order between disputing parties. In Michigan, these orders are often connected to ongoing court proceedings, such as divorce, child custody, or property disputes. Unlike a PPO, a restraining order does not necessarily focus on preventing harassment or violence but instead addresses legal or property-related conflicts.<br>\n<br>For example, in a divorce case, restraining orders might prohibit one spouse from selling shared assets or ensure one party has visitation rights to children. However, if a dispute escalates to include threatening actions or harassment, a PPO may become a more appropriate solution. Understanding the differences in the scope of a restraining order vs PPO is important in determining which order applies to a given situation.<br>\n<br>When Does a PPO Apply?\n<br>A Personal Protection Order (PPO) is a specific type of legal protection geared toward preventing harmful or threatening behavior. In Michigan, a PPO can be granted in cases involving domestic abuse, stalking, harassment, or other forms of intimidation. Unlike restraining orders, PPOs do not require an active legal case—they are designed solely to safeguard the victim.<br>\n<br>For instance, individuals may file for a PPO if they experience repeated unwanted contact from someone, physical abuse, or credible threats of harm. The Michigan courts offer three types of PPOs:\n<br>Domestic Relationship PPO: Designed for situations involving family members, spouses, former partners, or co-parents.\n<br>Stalking PPO: Meant for those suffering from persistent, unwanted contact or surveillance by another individual.\n<br>Non-Domestic PPO: Covers threats from individuals who do not share a familial or intimate relationship with the victim.\n<br>These orders are enforceable by law, and any violation can result in criminal penalties for the accused party. Understanding the differences between restraining order vs PPO becomes especially important in cases that involve escalating threats or harassment.<br>\n<br>Scenarios That May Require a Restraining Order\n<br>A restraining order is most often sought in cases where stability or justice must be maintained during an ongoing legal matter. For instance, during a contentious child custody battle, one party may file a restraining order to prevent the other from taking the child out of state. Similarly, a couple dividing property during divorce proceedings might use a restraining order to ensure neither person can sell or destroy shared assets.<br>\n<br>Restraining orders can also apply to non-domestic situations, such as business disputes between former partners or conflicts with neighbors. Unlike a PPO, however, they generally focus on halting specific actions rather than on personal safety.<br>\n<br>The Need for a PPO in Cases of Threats or Violence\n<br>The primary purpose of a PPO is to prevent harm or abuse. Individuals should consider filing for a PPO in Michigan when they feel they are in immediate danger or are being subjected to stalking, harassment, or violence. For example, a domestic violence victim might seek a PPO to prevent their abuser from contacting them, showing up uninvited, or intimidating them online or in person.<br>\n<br>Similarly, victims of stalking—such as someone receiving repeated and unwelcome visits, emails, or phone calls—may qualify for a Stalking PPO. It is critical to gather enough evidence, such as text messages, voicemails, or eyewitness accounts, when filing for a PPO, as the court requires proof to issue the order.<br>\n<br>Key Differences Between a Restraining Order and a PPO\n<br>To better understand the distinction between restraining order vs PPO, consider the following:\n<br>Scope: A restraining order generally addresses legal or property-related disputes, while a PPO focuses solely on protecting individuals from harm or harassment.<br>Legal Requirements: PPOs do not require an ongoing legal case and can be requested on their own, whereas restraining orders are filed within the context of an active civil case.\n<br>Duration: PPOs in Michigan can last for up to one year and may be renewed, while restraining orders typically last for the duration of the related court proceeding.\n<br>Penalty for Violations: Violating a PPO is considered a criminal offense and can result in immediate arrest, whereas restraining order violations are usually addressed as civil contempt.<br>\n<br>Filing for a Restraining Order or PPO in Michigan\n<br>When deciding whether to file for a restraining order vs PPO, carefully evaluate the nature of the threat or conflict. If you're dealing with harassment, violence, or credible threats, visiting your local circuit court to petition for a PPO may be the best option. Conversely, if you’re involved in a civil dispute in need of judicial oversight, a restraining order is more appropriate. Either way, it’s important to act swiftly to protect your well-being and your rights.<br>\n<br>Conclusion\n<br>In Michigan, understanding what situations qualify for a restraining order vs PPO is vital to pursuing the right legal recourse. PPOs are designed to safeguard individuals from violence, harassment, or intimidation, while restraining orders address broader legal disputes. By knowing the distinctions and filing appropriately, you can take proactive steps to secure the protection you need in any threatening or contentious scenario.&nbsp;<br></p>\n                         \n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "tNFKYV3ONU",
+          "_anchor": "article07-7",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_name": "video1",
+          "_sourceTheme": "modulem5",
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
+            },
+            "& when (@fullWidth)": {
+              ".container-fluid": {
+                "padding": "0 22px",
+                "overflow": "hidden",
+                "@media (max-width: 992px)": {
+                  "padding": "0 16px"
+                },
+                ".row": {
+                  "padding": "0"
+                }
+              }
+            },
+            ".container": {
+              "overflow": "hidden"
+            },
+            ".row": {
+              "justify-content": "center"
+            },
+            ".video-block": {
+              "width": "62%",
+              "margin": "0 auto",
+              "@media (max-width: 992px)": {
+                "width": "80%"
+              },
+              "@media (max-width: 768px)": {
+                "width": "100%"
+              },
+              ".video-wrapper": {
+                ".app-video-wrapper": {
+                  "img": {
+                    "height": "450px",
+                    "object-fit": "cover",
+                    "@media (max-width: 992px)": {
+                      "height": "300px"
+                    }
+                  }
+                }
+              }
+            },
+            ".app-video-wrapper::before": {
+              "color": "@play",
+              "text-shadow": "none"
+            }
+          },
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"image1 modulem5\" group=\"Image & Video\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Play Color\" value=\"#495DFF\" name=\"play\" selected>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\" parallax selected>\n            <input type=\"color\" title=\"Color\" value=\"#f1f2f4\" selected>\n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#495DFF\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row\">\n            <div class=\"col-12\">\n                <div class=\"video-block\">\n                    <div mbr-video class=\"video-wrapper\">\n                        <iframe src=\"https://www.youtube.com/watch?v=dB5YOG6hhwA\"></iframe>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_JSplaceholders": [],
+          "_PHPplaceholders": [],
+          "_anchor": "video1-8",
+          "_isUserblock": true,
+          "_cid": "tNFL0PoHK0",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".card-heading": {
+              "padding-top": "16px",
+              "padding-bottom": "8px",
+              "color": "#012b3a"
+            },
+            ".p, .mbr-text": {
+              "color": "#012b3a"
+            },
+            ".row": {
+              "justify-content": "center"
+            },
+            "a": {
+              "font-weight": "400 !important"
+            },
+            "a.text-danger:hover": {
+              "color": "#E5BE8A !important"
+            }
+          },
+          "_name": "article07",
+          "_sourceTheme": "startm5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"article07\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"6\" max=\"12\" value=\"8\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"range\" title=\"Paragraphs Amount\" name=\"articlesAmount\" min=\"1\" max=\"10\" value=\"3\" step=\"1\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Image\" value=\"/addons/socialm5/components/_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#fff8ef\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.3\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div mbr-class=\"{\n            'mbr-fullscreen': fullScreen}\">\n        <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n            <div class=\"row\">\n                <div class=\"col-12 col-md-{{contentWidth}}\">\n                    <div class=\"row\">\n                        <div class=\"col-12\">\n                            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\">\n                            </p><h2>When Can You File for a Personal Protection Order (PPO) in Michigan?</h2><p>In Michigan, personal safety is a priority, and the legal system provides tools to help individuals protect themselves from harm. Two commonly used protective measures are restraining orders and Personal Protection Orders (PPOs). While these terms are frequently confused, they serve different purposes under Michigan law. Understanding the differences between a restraining order vs PPO and knowing when to file for a PPO can help provide the protection you need in a threatening or dangerous situation.<br>\n<br>Understanding the Purpose of a PPO\n<br>A Personal Protection Order (PPO) is a court-issued order specifically designed to help individuals protect themselves from abuse, violence, harassment, or stalking. Unlike a restraining order, which often involves disputes in civil cases or family law matters, a PPO focuses purely on preventing acts that threaten the safety and well-being of the petitioner. When considering a restraining order vs PPO, the distinctive purpose of a PPO is its emphasis on personal safety and immediate protection.<br>\n<br>Filing for a PPO gives you the ability to legally restrict the respondent (the person the order is issued against) from engaging in harmful behaviors. This may include barring them from contacting you, approaching your home or workplace, or committing acts of violence or intimidation. Violating a PPO is considered a criminal offense, making this legal tool highly effective in enforcing boundaries.<br>\n<br>Types of PPOs in Michigan\n<br>Michigan law offers three primary types of PPOs to address different scenarios of danger or harassment:\n<br>Domestic Relationship PPO: This type of PPO applies when the petitioner and respondent share a close or familial relationship. It is often used in cases of domestic violence, such as abuse by a spouse, former partner, or co-parent.\n<br>Stalking PPO: Designed for individuals facing unwanted attention, this PPO addresses stalking behaviors, such as persistent following, surveillance, or repeated unwelcome communication.<br>Non-Domestic PPO: For cases where the respondent is not a family member or intimate partner but poses a significant threat to the petitioner’s safety. This includes threats, physical harm, or harassment by acquaintances, neighbors, or strangers.\n<br>In situations where these issues arise, understanding whether you need a restraining order vs PPO can help you take the appropriate legal steps to address the problem efficiently.<br>\n<br>When Should You File for a PPO?\n<br>Knowing when to file for a PPO depends on the nature and immediacy of the threat or harm you are facing. Here are some common situations where filing for a PPO would be appropriate:\n<br>If you are experiencing physical abuse or threats of violence from a current or former partner or family member.\n<br>If someone is stalking you, including repeated unwelcome visits, calls, messages, or following you in public spaces.\n<br>If you are being harassed or intimidated to the extent that it disrupts your life or causes fear for your safety.\n<br>If you receive credible threats of harm, even if no physical acts have yet occurred.<br>\n<br>Filing for a PPO can be done proactively — you don’t have to wait for an act of physical harm or violence to occur. This differs from a restraining order, which is often tied to ongoing civil disputes or a pending lawsuit. When weighing the choice of a restraining order vs PPO, keep in mind that a PPO is specifically focused on protecting individuals from immediate or ongoing personal threats.<br>\n<br>How to File for a PPO in Michigan\n<br>Filing for a Personal Protection Order involves completing a petition at your local circuit court. This petition must detail the specific reasons for requesting the PPO, including any evidence of harm, threats, or harassment. For example, evidence might include text messages, emails, voicemails, police reports, or witness statements. The more detailed and substantiated your petition is, the stronger your case will be for obtaining a PPO.<br>\n<br>In urgent situations, Michigan courts allow for an ex parte PPO, which can be issued immediately without notifying the respondent. This is especially useful in cases where delay could result in greater harm or additional threats. Once the ex parte order is granted, the respondent will have an opportunity to contest it during a subsequent hearing.<br><br>Violating a PPO: Consequences and Enforcement\n<br>Unlike some violations related to civil restraining orders, violations of a PPO in Michigan are taken very seriously and are considered criminal offenses. If the respondent violates the terms of your PPO, law enforcement can act swiftly to detain or charge the offender. This enforceability is an important distinction when comparing a restraining order vs PPO, as PPOs provide stronger legal consequences for violations, offering victims a greater sense of protection and safety.<br>\n<br>Examples of actions that could constitute a violation include attempting to contact you, threatening you directly or indirectly, or entering prohibited spaces such as your home or workplace. If a violation occurs, it’s essential to report it to the police and provide any evidence to demonstrate the breach of the order.<br>\n<br>Restraining Order vs PPO: Key Differences\n<br>While both restraining orders and PPOs aim to provide legal protection, their applications differ significantly. Restraining orders are typically sought during civil disputes, such as divorce or child custody cases, and may not necessarily address personal safety issues. In contrast, a PPO is designed to address specific threats of harm, harassment, or abuse and is enforceable through criminal penalties.<br>\n<br>PPOs also do not require an ongoing legal case to be filed — anyone facing imminent danger can petition for one independently. This makes them a faster and more direct solution for immediate threats. Knowing these distinctions is critical when deciding between a restraining order vs PPO.<br>\n<br>Conclusion\n<br>Filing for a Personal Protection Order (PPO) in Michigan is a decisive step to protect yourself from harm or harassment. Understanding how a PPO differs from a restraining order vs PPO is essential in determining which type of protection suits your needs. If you are facing threats, stalking, or abuse, act quickly and seek a PPO to ensure your safety and peace of mind. Michigan’s legal system offers this powerful tool to empower individuals, giving them the means to take control and safeguard their well-being.&nbsp;<br></p>\n                         \n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "tNFL1TvpKU",
+          "_anchor": "article07-9",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <h2 class=\"display-1\">Paul J Tafelski, Michigan Defense Law</h2>\n    <iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2936.723896913642!2d-83.2901488!3d42.6036012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6746a8be4f769d84!2sPaul%20J%20Tafelski%2C%20Michigan%20Defense%20Law%20%7C%20Criminal%20Attorney%20and%20DUI%20Lawyer!5e0!3m2!1sen!2sph!4v1667302403934!5m2!1sen!2sph\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>\n    <p class=\"display-3\">Paul J Tafelski, Michigan Defense Law | Criminal Attorney and DUI Lawyer</p>\n    <p class=\"display-3\">2525 S Telegraph Rd suite 100, Bloomfield Hills, MI 48302, United States</p>\n    <p class=\"display-3\">(248) 451-2200</p>\n</div>",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_sourceTheme": "startm5",
+          "_JSplaceholders": [],
+          "_PHPplaceholders": [],
+          "_params": {},
+          "_anchor": "custom-html-a"
+        },
+        {
+          "_name": "footer1",
+          "_sourceTheme": "careerm5",
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
+            },
+            ".list": {
+              "list-style": "none",
+              "padding-left": "0",
+              "@media (max-width: 991px)": {
+                "margin-bottom": "2rem"
+              },
+              "@media (min-width: 992px)": {
+                "margin-bottom": "0rem"
+              },
+              "color": "#bbbbbb"
+            },
+            "@media (max-width: 767px)": {
+              ".row": {
+                "text-align": "center"
+              }
+            },
+            "@media (max-width: 991px)": {
+              "div > *:last-child": {
+                "margin-top": "0 !important"
+              }
+            },
+            ".copyright": {
+              "color": "#bbbbbb"
+            }
+          },
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"footer1 careerm5\" group=\"Footers\" global once=\"footers\" mbr-class=\"{'mbr-fullscreen': fullScreen, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Copyright\" name=\"showCopyright\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value>\n            <input type=\"color\" title=\"Color\" value=\"#232323\" selected>\n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row mbr-white\">\n            <div class=\"col-6 col-md-4 col-lg-3\">\n                <h5 mbr-text class=\"mbr-section-subtitle mbr-fonts-style mb-2\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\"><b>Paul J Tafelski, Michigan Defense Law</b></h5>\n                <ul class=\"list mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".list\" data-multiline mbr-article>\n                    <li class=\"mbr-text item-wrap\">Company Website:</li>\n                    <li class=\"mbr-text item-wrap\"><a href=\"https://www.michigandefenselaw.com/\" class=\"text-primary\" target=\"_blank\">https://www.michigandefenselaw.com</a></li>\n                </ul>\n            </div>\n            <div class=\"col-6 col-md-4 col-lg-3\">\n                <h5 mbr-text class=\"mbr-section-subtitle mbr-fonts-style mb-2\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\">\n                    <b>Useful Links</b></h5>\n                <ul class=\"list mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".list\" data-multiline mbr-article>\n                    <li class=\"mbr-text item-wrap\"><span style=\"font-size: 17.6px;\"><a href=\"https://www.google.com/maps?cid=7441820969606749572\" class=\"text-primary\" target=\"_blank\">Oakland County Criminal Justice Attorney</a></span></li><li class=\"mbr-text item-wrap\"><span style=\"font-size: 17.6px;\"><a href=\"https://s3.us-east-2.amazonaws.com/michigandefenselaw.com/oakland-county/index.html\" class=\"text-primary\" target=\"_blank\">Criminal Justice Attorney</a></span></li><li class=\"mbr-text item-wrap\"><span style=\"font-size: 17.6px;\"><a href=\"https://michigan-defense-law-criminal-attorney-dui-lawyer.business.site/\" class=\"text-primary\" target=\"_blank\">Michigan DUI Lawyer</a></span></li>\n                </ul>\n            </div>\n            <div class=\"col-6 col-md-4 col-lg-3\">\n                <h5 mbr-text class=\"mbr-section-subtitle mbr-fonts-style mb-2\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\">\n                    <b>Follow us on Social Media</b></h5>\n                <ul class=\"list mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".list\" data-multiline mbr-article>\n                    <li class=\"mbr-text item-wrap\"><a href=\"https://www.facebook.com/michigandefenselaw/\" class=\"text-primary\" target=\"_blank\">Michigan Criminal Defense Lawyer</a></li>\n                    <li class=\"mbr-text item-wrap\"><a href=\"https://www.youtube.com/@pauljtafelskimichigandefen9607\" class=\"text-primary\" target=\"_blank\">Domestic Violence Attorney</a></li>\n                    <li class=\"mbr-text item-wrap\"><a href=\"https://twitter.com/criminalAttyPJT\" class=\"text-primary\" target=\"_blank\">Michigan Expungement Lawyer</a></li><li class=\"mbr-text item-wrap\"><a href=\"https://www.pinterest.com/michigandefenselaw/\" class=\"text-primary\" target=\"_blank\">Criminal Attorney Michigan</a></li>\n                </ul>\n            </div>\n            <div class=\"col-6 col-md-4 col-lg-3\">\n                <h5 mbr-text class=\"mbr-section-subtitle mbr-fonts-style mb-2\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\"></h5>\n                <ul class=\"list mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".list\" data-multiline mbr-article>\n                    <li class=\"mbr-text item-wrap\"><br></li>\n                    <li class=\"mbr-text item-wrap\"><br></li>\n                    <li class=\"mbr-text item-wrap\"><br></li>\n                    <li class=\"mbr-text item-wrap\"><br></li>\n                </ul>\n            </div>\n            <div class=\"col-12 mt-4\" mbr-if=\"showCopyright\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style copyright align-center\" mbr-theme-style=\"display-7\" data-app-selector=\".copyright\" data-app-placeholder=\"Type Text\">\n                    \n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_JSplaceholders": [],
+          "_PHPplaceholders": [],
+          "_anchor": "footer1-b",
+          "_isUserblock": true,
+          "_cid": "tNFL4JlFjU",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "footers",
+          "_params": {}
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <rssapp-wall id=\"3CUMgLETAJb7YUyX\"></rssapp-wall>[JS_CODE_0]\n</div>",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_sourceTheme": "startm5",
+          "_anchor": "custom-html-c",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script src=\"https://widget.rss.app/v1/wall.js\" type=\"text/javascript\" async></script>"
+          ]
+        }
+      ]
+    }
+  }
+}
